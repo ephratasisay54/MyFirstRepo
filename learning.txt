@@ -1,0 +1,2 @@
+What I have learned from this course is the basics of GitHub
+ and how it is used for collaboration and project management in software development. I learned about creating repositories, forking projects, making branches, and submitting pull requests.
